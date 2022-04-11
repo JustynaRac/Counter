@@ -1,0 +1,12 @@
+.counter {
+  padding: 2rem;
+  text-align: center;
+  display: block;
+}
+
+.value {
+  font-size: 5rem;
+  font-weight: bold;
+  color: #3c0080;
+  margin: 2rem 0;
+}
